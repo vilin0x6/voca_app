@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/voca_app/static/css/main.fc657bd5.chunk.css",
+    "main.js": "/voca_app/static/js/main.523530cb.chunk.js",
+    "main.js.map": "/voca_app/static/js/main.523530cb.chunk.js.map",
+    "runtime-main.js": "/voca_app/static/js/runtime-main.ac43c3c9.js",
+    "runtime-main.js.map": "/voca_app/static/js/runtime-main.ac43c3c9.js.map",
+    "static/js/2.e8d88c34.chunk.js": "/voca_app/static/js/2.e8d88c34.chunk.js",
+    "static/js/2.e8d88c34.chunk.js.map": "/voca_app/static/js/2.e8d88c34.chunk.js.map",
+    "index.html": "/voca_app/index.html",
+    "static/css/main.fc657bd5.chunk.css.map": "/voca_app/static/css/main.fc657bd5.chunk.css.map",
+    "static/js/2.e8d88c34.chunk.js.LICENSE.txt": "/voca_app/static/js/2.e8d88c34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac43c3c9.js",
+    "static/js/2.e8d88c34.chunk.js",
+    "static/css/main.fc657bd5.chunk.css",
+    "static/js/main.523530cb.chunk.js"
+  ]
+}
