@@ -1,0 +1,176 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    }
+  ],
+  "words": [
+    {
+      "day": "",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "abandon",
+      "kor": "버리다",
+      "isDone": true,
+      "id": 16
+    },
+    {
+      "day": "1",
+      "eng": "abolish",
+      "kor": "폐지하다",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "1",
+      "eng": "circumscribe",
+      "kor": "제한하다",
+      "isDone": true,
+      "id": 18
+    },
+    {
+      "day": "1",
+      "eng": "petition",
+      "kor": "탄원서, 진정서",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "1",
+      "eng": "infringement",
+      "kor": "위반, 침해",
+      "isDone": false,
+      "id": 20
+    },
+    {
+      "day": "1",
+      "eng": "breach",
+      "kor": "위반하다",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "day": "1",
+      "eng": "remedy",
+      "kor": "치료, 해결책",
+      "isDone": false,
+      "id": 22
+    },
+    {
+      "day": "2",
+      "eng": "liability",
+      "kor": "책임, 의무",
+      "isDone": false,
+      "id": 24
+    },
+    {
+      "day": "2",
+      "eng": "retain",
+      "kor": "보유하다",
+      "isDone": false,
+      "id": 25
+    },
+    {
+      "day": "2",
+      "eng": "accuse",
+      "kor": "고발하다",
+      "isDone": true,
+      "id": 26
+    },
+    {
+      "day": "2",
+      "eng": "abhor",
+      "kor": "혐오하다",
+      "isDone": true,
+      "id": 27
+    },
+    {
+      "day": "2",
+      "eng": "curt",
+      "kor": "퉁명스러운",
+      "isDone": false,
+      "id": 28
+    },
+    {
+      "day": "2",
+      "eng": "endeavour",
+      "kor": "노력하다",
+      "isDone": false,
+      "id": 29
+    },
+    {
+      "day": "3",
+      "eng": "foster",
+      "kor": "조성하다",
+      "isDone": false,
+      "id": 30
+    },
+    {
+      "day": "3",
+      "eng": "embrace",
+      "kor": "포괄하다",
+      "isDone": true,
+      "id": 31
+    },
+    {
+      "day": "3",
+      "eng": "advocate",
+      "kor": "지지하다",
+      "isDone": false,
+      "id": 32
+    },
+    {
+      "day": "3",
+      "eng": "perceive",
+      "kor": "감지하다",
+      "isDone": false,
+      "id": 33
+    },
+    {
+      "day": "3",
+      "eng": "discern",
+      "kor": "식별하다",
+      "isDone": false,
+      "id": 34
+    },
+    {
+      "day": "4",
+      "eng": "align",
+      "kor": "나란히 만들다",
+      "isDone": false,
+      "id": 35
+    },
+    {
+      "day": "4",
+      "eng": "disdain",
+      "kor": "업신여기다",
+      "isDone": false,
+      "id": 36
+    },
+    {
+      "day": "2",
+      "eng": "indemnify",
+      "kor": "배상하다",
+      "isDone": false,
+      "id": 37
+    }
+  ]
+}
