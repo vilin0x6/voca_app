@@ -12,16 +12,16 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          <Route exact path="/voca_app">
+          <Route exact path="/">
             <DayList />
           </Route>
-          <Route path="/voca_app/day/:day">
+          <Route path="/day/:day">
             <Day />
           </Route>
-          <Route path="/voca_app/create_word">
+          <Route path="/create_word">
             <CreateWord />
           </Route>
-          <Route path="/voca_app/create_day">
+          <Route path="/create_day">
             <CreateDay />
           </Route>
           {/* 위의 path에 해당되지 않는 경우 */}
