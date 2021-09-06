@@ -19,7 +19,7 @@ export default function CreateDay() {
       if(response.ok) {
         alert("생성이 완료 되었습니다");
         // 추가를 누르면 첫 페이지로 바로 이동
-        history.push("/");
+        history.push("/voca_app");
       }
     });
   }
