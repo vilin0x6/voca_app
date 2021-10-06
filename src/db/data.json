@@ -41,38 +41,10 @@
     },
     {
       "day": "1",
-      "eng": "circumscribe",
-      "kor": "제한하다",
-      "isDone": true,
-      "id": 18
-    },
-    {
-      "day": "1",
-      "eng": "petition",
-      "kor": "탄원서, 진정서",
-      "isDone": false,
-      "id": 19
-    },
-    {
-      "day": "1",
       "eng": "infringement",
       "kor": "위반, 침해",
       "isDone": false,
       "id": 20
-    },
-    {
-      "day": "1",
-      "eng": "breach",
-      "kor": "위반하다",
-      "isDone": false,
-      "id": 21
-    },
-    {
-      "day": "1",
-      "eng": "remedy",
-      "kor": "치료, 해결책",
-      "isDone": false,
-      "id": 22
     },
     {
       "day": "2",
@@ -87,13 +59,6 @@
       "kor": "보유하다",
       "isDone": false,
       "id": 25
-    },
-    {
-      "day": "2",
-      "eng": "accuse",
-      "kor": "고발하다",
-      "isDone": true,
-      "id": 26
     },
     {
       "day": "2",
@@ -120,22 +85,15 @@
       "day": "3",
       "eng": "foster",
       "kor": "조성하다",
-      "isDone": false,
+      "isDone": true,
       "id": 30
     },
     {
       "day": "3",
       "eng": "embrace",
       "kor": "포괄하다",
-      "isDone": true,
-      "id": 31
-    },
-    {
-      "day": "3",
-      "eng": "advocate",
-      "kor": "지지하다",
       "isDone": false,
-      "id": 32
+      "id": 31
     },
     {
       "day": "3",
@@ -171,6 +129,13 @@
       "kor": "배상하다",
       "isDone": false,
       "id": 37
+    },
+    {
+      "day": "1",
+      "eng": "remedy",
+      "kor": "치료, 해결책",
+      "isDone": false,
+      "id": 39
     }
   ]
 }
