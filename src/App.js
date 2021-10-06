@@ -15,7 +15,7 @@ function App() {
           <Route exact path="/voca_app">
             <DayList />
           </Route>
-          <Route path="/voca_app/day/:day"> {/* url의 값을 day라는 변수로 받음 */}
+          <Route path="/voca_app/day/:day">
             <Day />
           </Route>
           <Route path="/voca_app/create_word">
