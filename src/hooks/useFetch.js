@@ -8,7 +8,7 @@ export default function useFetch(url) {
       fetch(url) 
       .then(response => {
         // http 응답인 response를 json으로 변환
-        return response.json()
+        return response.json();
       })
       .then(data => {
         setData(data);
