@@ -3,7 +3,7 @@ Voca App
 직관적이고 심플한 영단어 웹 앱입니다. TOEIC 영단어를 외워야 한다면 Voca App을 이용해보세요!
 
 <br/>
-<img src=![voca_app](https://user-images.githubusercontent.com/86959545/136172566-ed5c404b-2c08-43ca-bbe7-d4d1938bf422.gif)"">
+<img alt="Voca App" src="https://user-images.githubusercontent.com/86959545/136172566-ed5c404b-2c08-43ca-bbe7-d4d1938bf422.gif">
 
 
 📝 About The Project
